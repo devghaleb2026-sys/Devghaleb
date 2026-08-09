@@ -1,249 +1,882 @@
 <div align="center">
 
-# 👋 Hi, I'm Ghaleb Alshaer
+<a href="#-about-me">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0f172a,65:1d4ed8,100:7c3aed&text=GHALEB%20ALSHAER&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=18&descAlignY=58&animation=fadeIn" width="100%">
+</a>
 
-### 💻 Aspiring Software Engineer · Full-Stack Developer in Progress
+<br>
 
-<p>
-  <a href="https://github.com/GhalebAlshaer"><img src="https://img.shields.io/badge/GitHub-GhalebAlshaer-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:dev.ghaleb2026@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://t.me/Dev_AL_shaer"><img src="https://img.shields.io/badge/Telegram-Dev__AL__shaer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;System+Analysis+%7C+Problem+Solving;Full-Stack+Developer+in+Progress;Building+Real-World+Systems;Learn+%E2%80%A2+Build+%E2%80%A2+Analyze+%E2%80%A2+Improve">
 
-**Analyze → Design → Build → Test → Improve**
+<br><br>
+
+<a href="https://github.com/GhalebAlshaer">
+<img src="https://img.shields.io/badge/GitHub-GhalebAlshaer-111827?style=for-the-badge&logo=github">
+</a>
+&nbsp;
+<a href="mailto:dev.ghaleb2026@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://t.me/Dev_AL_shaer">
+<img src="https://img.shields.io/badge/Telegram-Dev__AL__shaer-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="#-about-me">About</a> • <a href="#-skills">Skills</a> • <a href="#-projects">Projects</a> • <a href="#-roadmap">Roadmap</a> • <a href="#-github-analytics">Analytics</a> • <a href="#-contact">Contact</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=GhalebAlshaer&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge">
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<a name="about-me"></a>
 
-I'm **Ghaleb Alshaer**, a beginner developer passionate about **software engineering, system analysis, problem solving, and application development**.
+# 👨‍💻 About Me
 
-I'm currently building my foundations in programming and working toward becoming a **Software Engineer / Full-Stack Developer**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I enjoy understanding the complete process:
+### Hi, I'm Ghaleb 👋
 
-> **Problem → Analysis → System Design → Development → Testing → Improvement**
+I'm a **beginner developer** building my foundation toward:
 
----
+**Software Engineering + Full-Stack Development**
 
-## 🚀 My Direction
+I'm interested in more than writing code.
+
+I enjoy understanding:
+
+* 🔍 Problems
+* 🧩 Requirements
+* 🏗️ System structure
+* 🗄️ Data
+* 💻 Software
+* 🔄 Continuous improvement
+
+My goal is to become a developer capable of taking a real-world requirement and turning it into a complete software system.
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ Quick Profile
 
 ```text
-Programming Fundamentals
-        ↓
-Object-Oriented Programming
-        ↓
-Data Structures & Algorithms
-        ↓
-Database Design & SQL
-        ↓
-Backend Development
-        ↓
-Frontend Development
-        ↓
-Full-Stack Development
-        ↓
-Software Engineering & System Architecture
+Name
+└── Ghaleb Alshaer
+
+Level
+└── Beginner Developer
+
+Direction
+├── Software Engineering
+└── Full-Stack Development
+
+Main Interest
+└── System Analysis
+
+Mindset
+└── Learn → Build → Improve
 ```
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### Web Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-### Database & Concepts
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge">
-<img src="https://img.shields.io/badge/Problem_Solving-10B981?style=for-the-badge">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Skills Snapshot
-
-| Skill           |  Current Focus |
-| --------------- | -------------: |
-| C++             | ████████░░ 78% |
-| HTML            | █████████░ 85% |
-| CSS             | ████████░░ 75% |
-| JavaScript      | ███████░░░ 68% |
-| SQL             | ███████░░░ 65% |
-| Java / OOP      | ██████░░░░ 60% |
-| System Analysis | ███████░░░ 70% |
-
-> These percentages represent my **current learning focus and self-assessment**, not professional proficiency.
-
----
-
-## 💼 Featured Projects
-
-### 🏫 School Management System
-
-A C++ project focused on managing school-related information while practicing programming logic, OOP, and system organization.
-
-**Built with:** `C++` · `OOP` · `System Design`
-
----
-
-### 📦 Product Management System
-
-A practical application for organizing and managing product information while strengthening programming and data-management concepts.
-
-**Built with:** `C++`
-
----
-
-### 💊 Pharmacy Inventory Management System
-
-A pharmacy-oriented system for organizing medicine and inventory information and practicing real-world system development.
-
-**Built with:** `C++` · `OOP` · `Data Management`
-
----
-
-### 🏥 Hospital Certificates & Reports System
-
-A web project for creating and managing hospital certificates and reports with editable information and professional printable layouts.
-
-**Built with:** `HTML` · `CSS` · `JavaScript`
-
----
-
-## 🧠 What I'm Learning
-
-* 🔹 C++ and programming fundamentals
-* 🔹 Object-Oriented Programming
-* 🔹 Data Structures & Algorithms
-* 🔹 Java and OOP
-* 🔹 HTML / CSS / JavaScript
-* 🔹 SQL and database concepts
-* 🔹 System analysis and design
-* 🔹 Software engineering principles
-* 🔹 Backend development
-* 🔹 Full-stack development
-
----
-
-## 📈 GitHub Analytics
+# 🧭 My Developer Identity
 
 <div align="center">
 
-<a href="https://github.com/GhalebAlshaer">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=GhalebAlshaer&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
-</a>
+### I don't want to be just a programmer.
 
-<a href="https://github.com/GhalebAlshaer">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhalebAlshaer&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages">
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GhalebAlshaer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+```text
+             ┌─────────────────────┐
+             │   PROBLEM SOLVER    │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │   SYSTEM THINKER    │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │ SOFTWARE DEVELOPER  │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │ SOFTWARE ENGINEER   │
+             └──────────┬──────────┘
+                        ↓
+             ┌─────────────────────┐
+             │ FULL-STACK BUILDER  │
+             └─────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🗺️ Developer Roadmap
+# 🎛️ Interactive Profile
 
-### ✅ Foundation
+<details>
+<summary><strong>🔎 What am I currently focusing on?</strong></summary>
 
-* Programming fundamentals
-* C++
+<br>
+
+### Current Focus
+
+| Area                | Focus                             |
+| ------------------- | --------------------------------- |
+| 💻 Programming      | C++                               |
+| 🧩 Architecture     | OOP & System Structure            |
+| 🌐 Web              | HTML · CSS · JavaScript           |
+| 🗄️ Data            | SQL                               |
+| ☕ Programming       | Java                              |
+| 🧠 CS Fundamentals  | Data Structures & Algorithms      |
+| 🚀 Career Direction | Software Engineering + Full-Stack |
+
+</details>
+
+<details>
+<summary><strong>🧠 How do I approach a project?</strong></summary>
+
+<br>
+
+```text
+01  Understand the problem
+          ↓
+02  Identify requirements
+          ↓
+03  Analyze users and data
+          ↓
+04  Design the system
+          ↓
+05  Implement
+          ↓
+06  Test
+          ↓
+07  Debug
+          ↓
+08  Refactor
+          ↓
+09  Improve
+```
+
+</details>
+
+<details>
+<summary><strong>🎯 What am I working toward?</strong></summary>
+
+<br>
+
+My long-term target is to become capable of building complete applications across:
+
+```text
+Frontend
+   +
+Backend
+   +
+Database
+   +
+APIs
+   +
+Architecture
+   +
+Testing
+```
+
+</details>
+
+---
+
+<a name="skills"></a>
+
+# 🛠️ Skills & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js">
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js">
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 Skill Progress
+
+> These indicators represent my **current learning focus**, not professional proficiency.
+
+<div align="center">
+
+| Skill           |        Focus       |
+| :-------------- | :----------------: |
+| C++             | ███████████████░░░ |
+| OOP             |  █████████████░░░░ |
+| HTML            |  ███████████████░░ |
+| CSS             |  █████████████░░░░ |
+| JavaScript      |  ███████████░░░░░  |
+| SQL             |  ███████████░░░░░  |
+| Java            |  ██████████░░░░░░  |
+| System Analysis |  ███████████░░░░░  |
+
+</div>
+
+<details>
+<summary><strong>📌 How I classify my skills</strong></summary>
+
+<br>
+
+🟢 **Practicing** — actively using it in projects.
+
+🟡 **Improving** — have fundamentals and continuing to develop them.
+
+🔵 **Learning Next** — planned area of study.
+
+</details>
+
+---
+
+<a name="projects"></a>
+
+# 🚀 Projects
+
+<div align="center">
+
+### Real projects → Real problems → Real learning
+
+</div>
+
+---
+
+<details open>
+<summary><strong>🏫 School Management System — C++</strong></summary>
+
+<br>
+
+**Type:** Management System
+**Technology:** `C++` · `OOP`
+
+A school management system built to practice designing software around a real-world scenario.
+
+### Focus
+
+* Object-Oriented Programming
+* Data organization
+* Application logic
+* System structure
+* Problem solving
+
+### System Model
+
+```text
+              SCHOOL
+                │
+       ┌────────┼────────┐
+       ↓        ↓        ↓
+   Students   Classes   Records
+       │        │        │
+       └────────┼────────┘
+                ↓
+        Management Logic
+```
+
+### What I learned
+
+> Turning a real-world scenario into structured program logic.
+
+</details>
+
+---
+
+<details>
+<summary><strong>📦 Product Management System — C++</strong></summary>
+
+<br>
+
+**Type:** Management System
+**Technology:** `C++`
+
+A practical system focused on organizing and managing product information.
+
+### Focus
+
+* Data management
+* Application logic
+* Program organization
+* User interaction
+* Problem solving
+
+### Status
+
+`Completed / Learning Project`
+
+</details>
+
+---
+
+<details>
+<summary><strong>💊 Pharmacy Inventory System — C++</strong></summary>
+
+<br>
+
+**Type:** Inventory Management
+**Technology:** `C++` · `OOP`
+
+A system designed around a real-world pharmacy inventory scenario.
+
+### Focus
+
+* Medicine information
+* Inventory logic
+* Data organization
 * OOP
-* Basic system development
-* HTML / CSS / JavaScript
-* SQL
-
-### 🔄 In Progress
-
-* Data Structures & Algorithms
-* Stronger JavaScript
-* Database design
 * System analysis
-* Git & GitHub
-* Clean and maintainable code
 
-### 🎯 Next Goals
+### System Model
 
-* Backend development
-* REST APIs
-* Modern frontend frameworks
-* Full-stack applications
-* Testing
-* Software architecture
-* Scalable system design
+```text
+                PHARMACY
+                   │
+        ┌──────────┼──────────┐
+        ↓          ↓          ↓
+    Medicines    Stock    Operations
+        │          │          │
+        └──────────┼──────────┘
+                   ↓
+            Inventory Logic
+```
+
+### Status
+
+`Completed / Learning Project`
+
+</details>
 
 ---
 
-## 🧩 My Development Philosophy
+<details>
+<summary><strong>🏥 Hospital Certificates & Reports — Web</strong></summary>
+
+<br>
+
+**Type:** Web Application
+**Technology:** `HTML` · `CSS` · `JavaScript`
+
+A web application focused on creating professional certificates and reports.
+
+### Current Concepts
+
+* Editable forms
+* Dynamic data
+* Professional document layout
+* JavaScript interactions
+* Print-oriented design
+* Structured documents
+
+### Application Flow
+
+```text
+USER
+  ↓
+FORM
+  ↓
+DATA
+  ↓
+JAVASCRIPT
+  ↓
+DOCUMENT
+  ↓
+PRINT / EXPORT
+```
+
+### Status
+
+`Actively Improving`
+
+</details>
+
+---
+
+# 🧠 System Analysis
 
 <div align="center">
 
-### Think before you code.
+### Before code comes understanding.
 
-**Understand the problem.**
+</div>
 
-↓
+<details>
+<summary><strong>🔍 Click to see how I analyze a system</strong></summary>
 
-**Analyze the requirements.**
+<br>
 
-↓
+```text
+                 REAL-WORLD PROBLEM
+                          │
+                          ▼
+                    REQUIREMENTS
+                          │
+                          ▼
+                       USERS
+                          │
+                          ▼
+                      ENTITIES
+                          │
+                          ▼
+                        DATA
+                          │
+                          ▼
+                    RELATIONSHIPS
+                          │
+                          ▼
+                   SYSTEM DESIGN
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+          FRONTEND      BACKEND     DATABASE
+              │           │           │
+              └───────────┼───────────┘
+                          ▼
+                        TEST
+                          │
+                          ▼
+                      DEPLOY
+                          │
+                          ▼
+                      IMPROVE
+```
 
-**Design the solution.**
+</details>
 
-↓
+---
 
-**Build the system.**
+# 🏗️ Software Architecture Vision
 
-↓
+<div align="center">
 
-**Test and improve it.**
+<table>
+<tr>
+<td align="center">
+
+### 🎨 FRONTEND
+
+UI
+UX
+Forms
+Interaction
+
+</td>
+
+<td align="center">
+
+### ⚙️ BACKEND
+
+Logic
+APIs
+Authentication
+Services
+
+</td>
+
+<td align="center">
+
+### 🗄️ DATABASE
+
+Models
+Queries
+Relations
+Data
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text
+                    APPLICATION
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+    FRONTEND          BACKEND          DATABASE
+        │                │                │
+        └────────────────┼────────────────┘
+                         ↓
+                       APIs
+                         ↓
+                      USERS
+```
 
 </div>
 
 ---
 
-## 🌱 Currently Growing
+<a name="roadmap"></a>
 
-I'm at the beginning of my development journey, and I don't claim to know everything.
+# 🗺️ Interactive Roadmap
 
-Instead, I'm focused on building strong fundamentals, creating real projects, learning from mistakes, and continuously improving.
+<details open>
+<summary><strong>🚀 View My Roadmap</strong></summary>
 
-> **The goal isn't to know everything. The goal is to keep getting better.**
+<br>
+
+```text
+FOUNDATION
+    │
+    ├── C++
+    ├── OOP
+    ├── Java
+    ├── HTML
+    ├── CSS
+    └── JavaScript
+          │
+          ▼
+COMPUTER SCIENCE
+    │
+    ├── Data Structures
+    ├── Algorithms
+    └── Problem Solving
+          │
+          ▼
+DATA
+    │
+    ├── SQL
+    ├── Database Design
+    └── Data Modeling
+          │
+          ▼
+BACKEND
+    │
+    ├── Server Development
+    ├── REST APIs
+    ├── Authentication
+    └── Business Logic
+          │
+          ▼
+FRONTEND
+    │
+    ├── Modern JavaScript
+    ├── Framework
+    └── Advanced UI
+          │
+          ▼
+FULL-STACK
+          │
+          ▼
+SOFTWARE ENGINEERING
+          │
+          ▼
+ARCHITECTURE
+```
+
+</details>
 
 ---
 
-## 📫 Let's Connect
+# 🎯 2026 Mission Control
 
 <div align="center">
 
-<a href="https://github.com/GhalebAlshaer"><img src="https://img.shields.io/badge/GitHub-GhalebAlshaer-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+| Mission               | Status |
+| :-------------------- | :----: |
+| Strengthen C++        |   🟢   |
+| Master OOP            |   🟢   |
+| Data Structures       |   🟡   |
+| Algorithms            |   🟡   |
+| Improve JavaScript    |   🟡   |
+| Improve SQL           |   🟡   |
+| Backend Development   |   🔵   |
+| REST APIs             |   🔵   |
+| Modern Frontend       |   🔵   |
+| Full-Stack Projects   |   🔵   |
+| Software Architecture |   🔵   |
 
-<a href="mailto:dev.ghaleb2026@gmail.com"><img src="https://img.shields.io/badge/Email-dev.ghaleb2026%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
-<a href="https://t.me/Dev_AL_shaer"><img src="https://img.shields.io/badge/Telegram-Dev__AL__shaer-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<details>
+<summary><strong>📋 Expand full 2026 goals</strong></summary>
+
+<br>
+
+### Programming
+
+* [ ] C++ fundamentals
+* [ ] OOP
+* [ ] Data Structures
+* [ ] Algorithms
+* [ ] JavaScript
+* [ ] Java
+
+### Web
+
+* [ ] Advanced JavaScript
+* [ ] Backend
+* [ ] REST APIs
+* [ ] Modern Frontend
+* [ ] Full-Stack Applications
+
+### Engineering
+
+* [ ] Requirements Analysis
+* [ ] UML
+* [ ] Database Modeling
+* [ ] Clean Code
+* [ ] Testing
+* [ ] Architecture
+* [ ] Git Workflows
+
+</details>
+
+---
+
+<a name="analytics"></a>
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/GhalebAlshaer">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=GhalebAlshaer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+alt="GitHub Stats">
+
+</a>
+
+<a href="https://github.com/GhalebAlshaer">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhalebAlshaer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages">
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=GhalebAlshaer&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<details>
+<summary><strong>🏆 View GitHub Achievements</strong></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GhalebAlshaer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies">
+
+</div>
+
+</details>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+
+</div>
+
+---
+
+# 🧪 My Development Loop
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">01<br><strong>UNDERSTAND</strong></td>
+<td>→</td>
+<td align="center">02<br><strong>ANALYZE</strong></td>
+<td>→</td>
+<td align="center">03<br><strong>DESIGN</strong></td>
+<td>→</td>
+<td align="center">04<br><strong>BUILD</strong></td>
+</tr>
+<tr>
+<td colspan="7" align="center">↓</td>
+</tr>
+<tr>
+<td align="center">08<br><strong>IMPROVE</strong></td>
+<td>←</td>
+<td align="center">07<br><strong>REFACTOR</strong></td>
+<td>←</td>
+<td align="center">06<br><strong>DEBUG</strong></td>
+<td>←</td>
+<td align="center">05<br><strong>TEST</strong></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💡 Engineering Principles
+
+<details>
+<summary><strong>🧠 01 — Understand before coding</strong></summary>
+
+Good software starts with understanding the problem.
+
+</details>
+
+<details>
+<summary><strong>🏗️ 02 — Structure matters</strong></summary>
+
+A solution should be organized so it can evolve.
+
+</details>
+
+<details>
+<summary><strong>🔍 03 — Understand the "why"</strong></summary>
+
+I prefer understanding concepts rather than memorizing syntax.
+
+</details>
+
+<details>
+<summary><strong>🧪 04 — Test assumptions</strong></summary>
+
+Working once doesn't necessarily mean working correctly.
+
+</details>
+
+<details>
+<summary><strong>🔄 05 — Refactor</strong></summary>
+
+The first working solution is not always the best solution.
+
+</details>
+
+<details>
+<summary><strong>📚 06 — Keep learning</strong></summary>
+
+Every project is an opportunity to learn something new.
+
+</details>
+
+---
+
+# 🌱 Current Chapter
+
+<div align="center">
+
+```text
+          BEGINNER
+              │
+              ▼
+        FOUNDATIONS
+              │
+              ▼
+       REAL PROJECTS
+              │
+              ▼
+      PROBLEM SOLVING
+              │
+              ▼
+        SYSTEM DESIGN
+              │
+              ▼
+         FULL-STACK
+              │
+              ▼
+    SOFTWARE ENGINEERING
+```
+
+</div>
+
+> I'm not trying to look like an expert.
+>
+> I'm building the skills that will eventually allow me to become one.
+
+---
+
+# 🌍 Long-Term Vision
+
+My long-term goal is to become capable of taking a requirement and moving through the complete software lifecycle:
+
+```text
+REQUIREMENT
+     ↓
+ANALYSIS
+     ↓
+ARCHITECTURE
+     ↓
+DATABASE
+     ↓
+BACKEND
+     ↓
+FRONTEND
+     ↓
+TESTING
+     ↓
+DEPLOYMENT
+     ↓
+MAINTENANCE
+```
+
+### The destination:
+
+**A developer who understands systems — not only syntax.**
+
+---
+
+<a name="contact"></a>
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/GhalebAlshaer">
+<img src="https://img.shields.io/badge/GitHub-GhalebAlshaer-020617?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:dev.ghaleb2026@gmail.com">
+<img src="https://img.shields.io/badge/Email-dev.ghaleb2026%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://t.me/Dev_AL_shaer">
+<img src="https://img.shields.io/badge/Telegram-Dev__AL__shaer-229ED9?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 </div>
 
@@ -251,8 +884,16 @@ Instead, I'm focused on building strong fundamentals, creating real projects, le
 
 <div align="center">
 
-### 🚀 Learning. Building. Improving.
+### 🚀 LEARN • BUILD • ANALYZE • IMPROVE
 
-**Ghaleb Alshaer · Aspiring Software Engineer & Full-Stack Developer**
+<br>
+
+**Ghaleb Alshaer**
+
+*Aspiring Software Engineer · Full-Stack Developer in Progress*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7c3aed,35:2563eb,70:1e3a8a,100:020617&section=footer">
 
 </div>
